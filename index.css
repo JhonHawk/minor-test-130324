@@ -1,0 +1,33 @@
+
+/* const clases = [
+  { color: "normal", text: "Normal" },
+  { color: "red", text: "Fire" },
+  { color: "blue", text: "Water" },
+  { color: "green", text: "Grass" },
+  { color: "yellow", text: "Electric" },
+]; */
+
+.btn-normal {
+  background-color: #f3f1f1;
+  color: #000;
+}
+
+.btn-red {
+  background-color: #ff0000;
+  color: #fff;
+}
+
+.btn-blue {
+  background-color: #0000ff;
+  color: #fff;
+}
+
+.btn-green {
+  background-color: #008000;
+  color: #fff;
+}
+
+.btn-yellow {
+  background-color: #ffff00;
+  color: #000;
+}
